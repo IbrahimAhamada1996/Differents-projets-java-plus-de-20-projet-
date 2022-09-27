@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32c9001a-cc49-446d-a54e-d117946b8afd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26TTLt7e9pPoaSrSW6s6QZO7s53" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Exo18">
+    <configuration name="Exo18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Exo18" />
+      <module name="ArrayExerecise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multidimensionalArray.Exo2" />
+      <module name="ArrayExerecise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multidimensionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multidimensionalArray.Exo3" />
+      <module name="ArrayExerecise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multidimensionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multidimensionalArray.Exo4" />
+      <module name="ArrayExerecise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multidimensionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multidimensionalArray.Exo5" />
+      <module name="ArrayExerecise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multidimensionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exo18" />
+        <item itemvalue="Application.Exo5" />
+        <item itemvalue="Application.Exo4" />
+        <item itemvalue="Application.Exo3" />
+        <item itemvalue="Application.Exo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32c9001a-cc49-446d-a54e-d117946b8afd" name="Default Changelist" comment="" />
+      <created>1647446524388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647446524388</updated>
+      <workItem from="1647446601024" duration="3507000" />
+      <workItem from="1647519411740" duration="2616000" />
+      <workItem from="1647604810637" duration="6886000" />
+      <workItem from="1647859737558" duration="3771000" />
+      <workItem from="1648023194482" duration="3917000" />
+      <workItem from="1648038470114" duration="1378000" />
+      <workItem from="1648049700448" duration="3165000" />
+      <workItem from="1648221135996" duration="11981000" />
+      <workItem from="1648236528645" duration="3285000" />
+      <workItem from="1648244264142" duration="6901000" />
+      <workItem from="1648254566200" duration="5000" />
+      <workItem from="1648290388945" duration="7918000" />
+      <workItem from="1648323033618" duration="11951000" />
+      <workItem from="1648393287589" duration="6684000" />
+      <workItem from="1648551477061" duration="1778000" />
+      <workItem from="1648636454832" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1647521202327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1647521202327" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1648034966364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1648034966364" />
+    <state width="1323" height="25" key="GridCell.Tab.0.bottom" timestamp="1648554965168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="25" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1648554965168" />
+    <state width="1323" height="25" key="GridCell.Tab.0.center" timestamp="1648554965167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="25" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1648554965167" />
+    <state width="1323" height="25" key="GridCell.Tab.0.left" timestamp="1648554965166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="25" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1648554965166" />
+    <state width="1323" height="25" key="GridCell.Tab.0.right" timestamp="1648554965167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="25" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1648554965167" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1648637366703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1648637366703" />
+    <state x="65" y="0" key="new project wizard" timestamp="1648637414014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1648637414014" />
+  </component>
+</project>

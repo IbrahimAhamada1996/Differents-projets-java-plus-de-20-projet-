@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efd70f84-c852-44a0-b1d3-b97690c97e91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24hi5kklxiUCNE694loPkiaYv1F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Exo2">
+    <configuration name="Exo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo10" />
+      <module name="exo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo11" />
+      <module name="exo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo12" />
+      <module name="exo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo2" />
+      <module name="exo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo7" />
+      <module name="exo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exo2" />
+        <item itemvalue="Application.Exo7" />
+        <item itemvalue="Application.Exo12" />
+        <item itemvalue="Application.Exo11" />
+        <item itemvalue="Application.Exo10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd70f84-c852-44a0-b1d3-b97690c97e91" name="Default Changelist" comment="" />
+      <created>1644089037368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644089037368</updated>
+      <workItem from="1644089042450" duration="11891000" />
+      <workItem from="1644320945091" duration="2244000" />
+      <workItem from="1644325695518" duration="85000" />
+      <workItem from="1644575726097" duration="4796000" />
+      <workItem from="1644665771629" duration="594000" />
+      <workItem from="1644668058443" duration="430000" />
+      <workItem from="1647123460081" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1644325879160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1644325879160" />
+    <state width="1322" height="169" key="GridCell.Tab.0.bottom" timestamp="1644581061875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1644581061875" />
+    <state width="1322" height="169" key="GridCell.Tab.0.center" timestamp="1644581061860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1644581061860" />
+    <state width="1322" height="169" key="GridCell.Tab.0.left" timestamp="1644581061860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1644581061860" />
+    <state width="1322" height="169" key="GridCell.Tab.0.right" timestamp="1644581061875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1644581061875" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1644668114089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1644668114089" />
+  </component>
+</project>

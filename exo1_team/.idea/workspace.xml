@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="404350e8-0373-4046-8dc7-5c5220805ee9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26IRmqbvnjNZZgip1TpWrH4lyqc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Exo1">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.somare.App" />
+      <module name="exo1_team" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.somare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stringbuffer.App" />
+      <module name="exo1_team" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringbuffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exos.App" />
+      <module name="exo1_team" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.exosStringBuffer.Exo1" />
+      <module name="exo1_team" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.exosStringBuffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exo" />
+      <module name="exo1_team" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exo1" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.exo" />
+        <item itemvalue="Application.App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="404350e8-0373-4046-8dc7-5c5220805ee9" name="Default Changelist" comment="" />
+      <created>1647109275664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647109275664</updated>
+      <workItem from="1647109295948" duration="3479000" />
+      <workItem from="1647123258708" duration="117000" />
+      <workItem from="1647123687477" duration="6868000" />
+      <workItem from="1647142517831" duration="386000" />
+      <workItem from="1647256354348" duration="2643000" />
+      <workItem from="1647418944187" duration="858000" />
+      <workItem from="1647422676971" duration="7090000" />
+      <workItem from="1647444729159" duration="2320000" />
+      <workItem from="1647508838529" duration="5047000" />
+      <workItem from="1648023409613" duration="5652000" />
+      <workItem from="1648036039750" duration="694000" />
+      <workItem from="1648052263461" duration="1001000" />
+      <workItem from="1648114635673" duration="3229000" />
+      <workItem from="1648121892863" duration="1873000" />
+      <workItem from="1648197130037" duration="9482000" />
+      <workItem from="1648221010128" duration="76000" />
+      <workItem from="1648253243346" duration="402000" />
+      <workItem from="1648253788212" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1647433507376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1647433507376" />
+    <state width="1323" height="74" key="GridCell.Tab.0.bottom" timestamp="1648209437236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1648209437236" />
+    <state width="1323" height="74" key="GridCell.Tab.0.center" timestamp="1648209437235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1648209437235" />
+    <state width="1323" height="74" key="GridCell.Tab.0.left" timestamp="1648209437234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1648209437234" />
+    <state width="1323" height="74" key="GridCell.Tab.0.right" timestamp="1648209437236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1648209437236" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1648221041044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1648221041044" />
+    <state x="65" y="0" key="new project wizard" timestamp="1647446513693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1647446513693" />
+  </component>
+</project>
